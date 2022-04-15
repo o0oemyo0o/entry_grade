@@ -6,7 +6,7 @@
         <?php
          "<br>";
          "<br>";
-         session_start(); 
+         
          echo "<h1>Grade Entry Form</h1>";
          echo "<form  method='post' action='show.php' name='add' id='add'>";
 
